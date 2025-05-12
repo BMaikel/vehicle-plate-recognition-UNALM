@@ -55,7 +55,9 @@ Facultad de Economía y Planificación - Departamento de Estadística Informáti
 ## 👨‍💻 Autores
 
 - [Michael A. Bañares G.](https://github.com/BMaikel)
-- [Otros colaboradores, si los hay]
+- [Jhordy A. Castro Fernandez]()
+- [Elvis Herrera Mendoza]()
+- [Leonardo ...]
 
 ---
 
